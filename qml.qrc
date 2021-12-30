@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyComponent.qml</file>
+        <file>MyGrid.qml</file>
+        <file>MyPopup.qml</file>
+        <file>functions.js</file>
+    </qresource>
+</RCC>
